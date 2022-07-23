@@ -8,7 +8,7 @@ while [[ "$REPLY" != 0 ]]
 do
 	Options_Available () {
 	echo "
-	0. Enter zero to exit this menu
+	0. Exit menu
 	1. Disk Space Usage
 	2. File Space Usage
 	3. Amount of Free and Used Memory
