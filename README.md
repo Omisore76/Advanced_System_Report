@@ -40,6 +40,6 @@ In order to use it, simply:
 bash Advanced_System_Report.sh
 ```
 
-4)Finally, choose a number based on the system information you need.
+4) Finally, choose a number based on the system information you need.
 
 Thank you!
