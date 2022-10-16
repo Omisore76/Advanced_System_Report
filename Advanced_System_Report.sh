@@ -42,11 +42,11 @@ do
 			echo "This is your system uptime"
 			echo "$(uptime)"
 		else
-			echo "You didnt choose any number in the range of 1-4"
+			echo "Sorry,you didnt choose any number in the range of 0-4. Try again!"
 			continue
 		fi
 	else
-		echo "sorry, you need to choose a number between the range of 1-4"
+		echo "Now exiting the program. Thank you for using me!"
 
 	fi
 done
